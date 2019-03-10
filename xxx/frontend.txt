@@ -1,0 +1,25 @@
+придумываем задание
+разворачиваем докер
+создаем spa frontend на VueJs
+делаем бекенд с json api
+
+mp4 h256 aac
+webm
+
+360
+480
+720
+1080
+------------------
+containers:
+    php
+    php
+    php
+
+    mysql /var/lib/mysql <= /home/vasya/mysql
+
+    nginx
+
+    nodejs
+    nodejs
+    nodejs
